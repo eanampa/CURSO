@@ -1,0 +1,6 @@
+<persona>
+	<nombre>yer</nombre>	
+	<apellidos> yas</apellidos>
+	<edad>32	</edad>
+	<correo electrónico>23@wdx	</correo electrónico>
+</persona>
