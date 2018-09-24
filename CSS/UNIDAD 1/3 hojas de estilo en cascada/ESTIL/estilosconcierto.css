@@ -1,0 +1,17 @@
+
+body
+{
+  background-color:black;
+  color:red;
+
+}
+h1
+{
+  color:white !important;
+  font-family:verdana;
+}
+p
+{
+  color:green;
+  font-family:verdana;
+}
